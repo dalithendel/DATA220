@@ -1,6 +1,7 @@
 # DATA220
 Final project for Communicating with Data. Visualized a dataset on animal rescues in the UK from the years 2009-2021
 
+Communicating with Data_ Final Project-1.pdf - is the written report
 
 Animal_Rescues.pdf - PDF of jupyter notebook exploring and visualizing dataset
 
